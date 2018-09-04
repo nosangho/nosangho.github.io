@@ -1,4 +1,5 @@
-첫번째 알고리즘
+# 첫번째 알고리즘
+
 '''
 def solution(s):
     word = s.upper()
