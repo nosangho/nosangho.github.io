@@ -26,7 +26,7 @@ github_username:  nosangho
 
 # Build settings
 markdown: kramdown
-remote_them : mmistakes/minimal_mistakes
+remote_theme : mmistakes/minimal_mistakes
 minimal_mistakes_skin : "defalut"
 plugins:
   - jekyll-feed
